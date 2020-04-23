@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "835793229458",
+    "firebase_url": "https://mobx-lab.firebaseio.com",
+    "project_id": "mobx-lab",
+    "storage_bucket": "mobx-lab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835793229458:android:4a097353a0c3e7899c784b",
+        "android_client_info": {
+          "package_name": "com.example.mobx_observable_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835793229458-bmnaiemekgf6lrnjc2p60807g10gubgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl0T6UNJkQe5XzaTx04LD3qsawb0Twvxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835793229458-bmnaiemekgf6lrnjc2p60807g10gubgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
